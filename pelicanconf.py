@@ -42,8 +42,12 @@ TAGS_SAVE_AS = 'etiquetas/index.html'
 
 PLUGIN_PATHS= ['plugins']
 PLUGINS = [
-    "sitemap", "shortener", "pelican-ert", "pelican.plugins.render_math", "bundler", "blur_thumbnails"
+    "sitemap", "shortener", 
+    "pelican-ert", "pelican.plugins.render_math", 
+    "bundler", "blur_thumbnails", "service_worker"
     ]
+
+SERVICE_WORKER_THEMPLATE = "content/extra/sw_template.js"
 
 BLUR_PATH = "content"
 
