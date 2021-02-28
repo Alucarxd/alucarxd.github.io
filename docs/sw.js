@@ -1,4 +1,4 @@
-const version = "ca93884";
+const version = "c501f16";
 const currentCacheName = `ALUCARXD-${version}`;
 const filesToCache = [
     "/",
@@ -56,7 +56,8 @@ const filesToCache = [
     "/theme/fonts/fontawesome-webfont.svg",
     "/theme/js/jqcloud.min.js",
     "/theme/js/lazy_loading.js",
-    "/theme/js/scripts_bundled.js"
+    "/theme/js/scripts_bundled.js",
+    "/theme/js/serviceWorker.js"
 ]
 
 self.addEventListener('install', event => {
