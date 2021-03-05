@@ -1,4 +1,4 @@
-const version = "4ab4b39";
+const version = "8939c45";
 const currentCacheName = `ALUCARXD-${version}`;
 const filesToCache = [
     "/",
@@ -26,7 +26,6 @@ const filesToCache = [
     "/extra/icon-256x256-thumbnail.png",
     "/extra/icon-384x384-thumbnail.png",
     "/extra/icon-512x512-thumbnail.png",
-    "/extra/localization.ini",
     "/extra/sw_template.js",
     "/feeds/all.atom.xml",
     "/finanzas/",
@@ -38,17 +37,19 @@ const filesToCache = [
     "/link/buscador/index.html",
     "/link/sitio-personal/",
     "/link/sitio-personal/index.html",
+    "/localization.ini",
     "/manifest.webmanifest",
+    "/plugins-en.html",
     "/portafolio/",
     "/portafolio/index.html",
-    "/posts/con-plugins-la-vida-es-mas-sencilla/",
-    "/posts/con-plugins-la-vida-es-mas-sencilla/index.html",
     "/posts/markdown-para-pelican/",
     "/posts/markdown-para-pelican/index.html",
     "/posts/mi-primer-articulo/",
     "/posts/mi-primer-articulo/index.html",
     "/posts/mira-mas-alla/",
     "/posts/mira-mas-alla/index.html",
+    "/posts/plugins/",
+    "/posts/plugins/index.html",
     "/sitemap.xml",
     "/sobre-mi/",
     "/sobre-mi/Pelican-logo-no-oficial-thumbnail.png",
@@ -64,6 +65,7 @@ const filesToCache = [
     "/theme/css/style_bundled.css",
     "/theme/fonts/fontawesome-webfont.svg",
     "/theme/js/jqcloud.min.js",
+    "/theme/js/l10n.js",
     "/theme/js/lazy_loading.js",
     "/theme/js/scripts_bundled.js",
     "/theme/js/serviceWorker.js"

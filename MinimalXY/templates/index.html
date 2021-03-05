@@ -29,6 +29,12 @@
               {% endif %}
               <!-- end plugins legacy -->
             </div>
+
+            <div class="w3-opacity w3-margin-right w3-margin-bottom" style="flex-grow: 1;">
+              {% import 'translations.html' as translations with context %}
+              {{ translations.translations_for(article) }}
+            </div>
+
             {% if article.tags %}
             <div class="w3-margin-right">
               {% for tag in article.tags %}
@@ -46,7 +52,7 @@
         </div>
 
         <footer>
-          <a class="w3-btn w3-green w3-right" href="{{ SITEURL }}/{{ article.url }}">Ver&#10093;</a>
+          <a class="w3-btn w3-green w3-right" data-l10n-id="Read" href="{{ SITEURL }}/{{ article.url }}">Read&#10093;</a>
         </footer>
       </article>
 

@@ -1,6 +1,8 @@
 Title: Con plugins la vida es mas sencilla
+slug: plugins
 Date: 15.02.2021
 Summary:Para todos aquellos que han pasado por la escuela segura que no se olvidaran nunca de esta...
+lang: es
 
 Bueno aqui le presento a esta formula, nunca sacara de mi mente JAJAJJA
 

@@ -4,129 +4,136 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>/</loc>
-<lastmod>2021-03-04T21:59:59-00:00</lastmod>
+<loc>https://alucarxd.github.io/</loc>
+<lastmod>2021-03-05T00:15:30-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/tags.html</loc>
-<lastmod>2021-03-04T21:59:59-00:00</lastmod>
+<loc>https://alucarxd.github.io/tags.html</loc>
+<lastmod>2021-03-05T00:15:30-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/categories.html</loc>
-<lastmod>2021-03-04T21:59:59-00:00</lastmod>
+<loc>https://alucarxd.github.io/categories.html</loc>
+<lastmod>2021-03-05T00:15:30-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/authors.html</loc>
-<lastmod>2021-03-04T21:59:59-00:00</lastmod>
+<loc>https://alucarxd.github.io/authors.html</loc>
+<lastmod>2021-03-05T00:15:30-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/archives.html</loc>
-<lastmod>2021-03-04T21:59:59-00:00</lastmod>
+<loc>https://alucarxd.github.io/archives.html</loc>
+<lastmod>2021-03-05T00:15:30-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/portafolio</loc>
+<loc>https://alucarxd.github.io/portafolio</loc>
 <lastmod>2020-12-20T00:00:00-05:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/sobre-mi/</loc>
-<lastmod>2021-03-04T21:59:59-00:00</lastmod>
+<loc>https://alucarxd.github.io/sobre-mi/</loc>
+<lastmod>2021-03-05T00:15:30-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/posts/con-plugins-la-vida-es-mas-sencilla</loc>
+<loc>https://alucarxd.github.io/posts/plugins</loc>
 <lastmod>2021-02-15T00:00:00-05:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/posts/mira-mas-alla</loc>
+<loc>https://alucarxd.github.io/posts/mira-mas-alla</loc>
 <lastmod>2020-12-21T00:00:00-05:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/posts/markdown-para-pelican</loc>
+<loc>https://alucarxd.github.io/posts/markdown-para-pelican</loc>
 <lastmod>2020-12-20T00:00:00-05:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/posts/mi-primer-articulo</loc>
+<loc>https://alucarxd.github.io/posts/mi-primer-articulo</loc>
 <lastmod>2020-12-20T00:00:00-05:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.75</priority>
 </url>
 
 <url>
-<loc>/category/curso/</loc>
+<loc>https://alucarxd.github.io/category/curso/</loc>
 <lastmod>2020-12-20T00:00:00-05:19</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/category/filosofia/</loc>
+<loc>https://alucarxd.github.io/category/filosofia/</loc>
 <lastmod>2020-12-21T00:00:00-05:19</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/category/misc/</loc>
+<loc>https://alucarxd.github.io/category/misc/</loc>
 <lastmod>2021-02-15T00:00:00-05:19</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/tag/frases/</loc>
+<loc>https://alucarxd.github.io/tag/frases/</loc>
 <lastmod>2020-12-21T00:00:00-05:19</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/tag/reflexion/</loc>
+<loc>https://alucarxd.github.io/tag/reflexion/</loc>
 <lastmod>2020-12-21T00:00:00-05:19</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/author/anonimo/</loc>
+<loc>https://alucarxd.github.io/author/anonimo/</loc>
 <lastmod>2020-12-21T00:00:00-05:19</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/author/gabriel-garcia/</loc>
+<loc>https://alucarxd.github.io/author/gabriel-garcia/</loc>
 <lastmod>2021-02-15T00:00:00-05:19</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
+</url>
+
+<url>
+<loc>https://alucarxd.github.io/plugins-en.html</loc>
+<lastmod>2021-02-15T00:00:00-05:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.75</priority>
 </url>
 
 </urlset>
