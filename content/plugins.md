@@ -1,4 +1,4 @@
-Title: Con plugins la vida es mas sencilla
+Title: Con plugins la vida es mas sencilla, o no ?
 slug: plugins
 Date: 15.02.2021
 Summary:Para todos aquellos que han pasado por la escuela segura que no se olvidaran nunca de esta...
