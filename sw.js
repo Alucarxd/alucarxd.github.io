@@ -1,4 +1,4 @@
-const version = "1c16a87";
+const version = "c4c4c83";
 const currentCacheName = `ALUCARXD-${version}`;
 const filesToCache = [
     "/",
