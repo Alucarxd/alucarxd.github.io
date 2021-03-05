@@ -1,4 +1,4 @@
-const version = "c501f16";
+const version = "4ab4b39";
 const currentCacheName = `ALUCARXD-${version}`;
 const filesToCache = [
     "/",
@@ -22,14 +22,23 @@ const filesToCache = [
     "/drafts/pages/portfolio.html",
     "/etiquetas/",
     "/etiquetas/index.html",
+    "/extra/icon-192x192-thumbnail.png",
+    "/extra/icon-256x256-thumbnail.png",
+    "/extra/icon-384x384-thumbnail.png",
+    "/extra/icon-512x512-thumbnail.png",
+    "/extra/localization.ini",
+    "/extra/sw_template.js",
+    "/feeds/all.atom.xml",
     "/finanzas/",
     "/finanzas/index.html",
+    "/images/Pelican-logo-no-oficial-thumbnail.png",
     "/images/Pelican-logo-thumbnail.png",
     "/index.html",
     "/link/buscador/",
     "/link/buscador/index.html",
     "/link/sitio-personal/",
     "/link/sitio-personal/index.html",
+    "/manifest.webmanifest",
     "/portafolio/",
     "/portafolio/index.html",
     "/posts/con-plugins-la-vida-es-mas-sencilla/",

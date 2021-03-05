@@ -16,6 +16,10 @@ RELATIVE_URLS = False
 GOOGLE_ANALYTICS = "G-8B8DH6X6XL"
 DISQUS_SITENAME = "https-alucarxd-github-io"
 
+FEED_DOMAIN = 'http://feeds.feedburner.com'
+FEED_ALL_ATOM = 'Alucarxd'
+FEED_ATOM = 'feeds/all.atom.xml'
+
 RECORD_SESSION = True
 
 DELETE_OUTPUT_DIRECTORY = True
